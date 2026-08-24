@@ -1,0 +1,9 @@
+# Local Netlify folder
+.netlify
+.trae-html-share-packages
+.DS_Store
+王硕云作品集.zip
+王硕云作品集/
+/photo-*.png
+/hero-bg.png
+/resume.pdf
